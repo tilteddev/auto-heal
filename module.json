@@ -11,6 +11,6 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js"    
 	},
-    "servers": ["https://raw.githubusercontent.com/teralove/auto-heal/master/"],
-    "supportUrl": "https://github.com/teralove/auto-heal/issues"
+    "servers": ["https://raw.githubusercontent.com/tilteddev/auto-heal/master/"],
+    "supportUrl": "https://github.com/tilteddev/auto-heal/issues"
 }
