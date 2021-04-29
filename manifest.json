@@ -4,7 +4,7 @@
         "overwrite": false,
         "hash": "69c206298dd7705762e602b1bed66cd9a13aa90e9c6ba6900f486956dd59c8e2"
     },
-    "index.js": "849db56fa40a0e18dc6bf9936949f417cce946b7ed377e86d2d85558da6f7aa2",
+    "index.js": "652812f449208956ec7bffac1ae016063e2fe0e6c6f54eb17b304f4b39bcca80",
     "module.json": "bd16bba3f63ef550a0ff14ef29da4353430e9df051a3301b60faf6634d717ef9",
     "settings_migrator.js": "457017eb5eb7f9cd6ee1dd0b463082e62a401724af7ba84b60d0c1dc822786cf"
   },
@@ -21,11 +21,11 @@
     "S_LEAVE_PARTY_MEMBER": 2,
     "S_LOGOUT_PARTY_MEMBER": 1,
     "S_PARTY_MEMBER_CHANGE_HP": 4,    
-    "S_PARTY_MEMBER_LIST": 7,
+    "S_PARTY_MEMBER_LIST": 8,
     "S_PARTY_MEMBER_STAT_UPDATE": 3,    
     "S_SPAWN_ME": 3,
-    "S_SPAWN_USER": 15,
-    "S_USER_LOCATION": 5,
+    "S_SPAWN_USER": 17,
+    "S_USER_LOCATION": 6,
     "S_USER_LOCATION_IN_ACTION": 2
   }
 }
